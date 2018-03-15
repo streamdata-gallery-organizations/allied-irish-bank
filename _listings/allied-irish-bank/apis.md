@@ -14,12 +14,12 @@ tags:
 - Loans
 - ATMs
 - Accounts
-created: "2018-03-10"
-modified: "2018-03-10"
+created: "2018-03-14"
+modified: "2018-03-14"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/allied-irish-bank/master/_listings/allied-irish-bank/apis.yaml
 specificationVersion: "0.14"
 apis:
-- name: Allied Irish Bank
+- name: Allied Irish Bank Public APIs
   description: Allied Irish Banks (AIB) is one of the so-called Big Four commercial
     banks in Ireland
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
