@@ -14,8 +14,8 @@ tags:
 - Loans
 - ATMs
 - Accounts
-created: "2018-03-24"
-modified: "2018-03-24"
+created: "2018-03-26"
+modified: "2018-03-26"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/allied-irish-bank/master/_listings/allied-irish-bank/apis.yaml
 specificationVersion: "0.14"
 apis:
