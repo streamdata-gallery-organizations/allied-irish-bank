@@ -1,9 +1,10 @@
-title: Streamdata Gallery Allied Irish Bank
+title: Streamdata API Gallery - 
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
 url: allied-irish-bank.streamdata.gallery
-tag: Allied Irish Bank
+tag: 
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery
+github_user: streamdata-gallery-entities
 github_repo: allied-irish-bank
 github_branch: master
 collections:
