@@ -11,8 +11,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: ""
 tags: Allied Irish Bank
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/allied-irish-bank/master/_listings/allied-irish-bank/apis.md
 specificationVersion: "0.14"
 apis:

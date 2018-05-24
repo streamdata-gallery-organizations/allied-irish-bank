@@ -1,10 +1,11 @@
 ---
 name: Streadata.io API Gallery - Allied Irish Bank
-description: This is a repository of  APIs, self-contained as a Github repository,
-  with HTML and YAML representations of the APIs and their surrounding operations.
+description: This is a repository of allied irish bank APIs, self-contained as a Github
+  repository, with HTML and YAML representations of the APIs and their surrounding
+  operations.
 image: http://template.streamdata.gallery/assets/allied-irish-bank.png
 created: "2018-02-24"
-modified: "2018-05-20"
+modified: "2018-05-24"
 url: http://allied-irish-bank.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
