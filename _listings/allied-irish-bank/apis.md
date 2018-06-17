@@ -9,10 +9,10 @@ description: Allied Irish Banks (AIB) is one of the so-called Big Four commercia
   through its tied agency with Irish Life Assurance plc.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Allied Irish Bank
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-17"
+modified: "2018-06-17"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/allied-irish-bank/master/_listings/allied-irish-bank/apis.md
 specificationVersion: "0.14"
 apis:
